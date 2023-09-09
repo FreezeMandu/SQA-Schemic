@@ -1,9 +1,9 @@
 {
-    "name": "QA-Schemic",
-    "displayName": "Q&A Schemic",
-    "version": "1.0",
+    "name": "SQA-Schemic",
+    "displayName": "S.Q.A Schemic",
+    "version": "1.1",
     "minGameVersion": 145,
     "hidden": "true",
-    "author": "Qwertynoob&Anchovy&Mandu",
+    "author": "Sirus&Qwertynoob&Anchovy&Mandu",
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
 }
